@@ -30,6 +30,8 @@ node index.js
 This application is covered by the APACHE 2.0 license. 
 ## Contributing
 Users are encouraged to contribute to the project to make the README file as comprehensive and useful as possible.
+## Testing
+Testing the application is important to get the results user is looking for when generating README file with generateMarkdown.js for output.
 ## Questions
 Email with questions: first.last.name@gmail.com<br /><br />
 <br />
